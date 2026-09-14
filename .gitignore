@@ -1,0 +1,15 @@
+# Modelos Vosk baixados localmente
+Modelos/
+*.wav
+*.mp3
+*.mp4
+*.asf
+*.m4a
+
+# Build/output
+output/
+*.exe
+
+__pycache__/
+*.pyc
+.vscode/
